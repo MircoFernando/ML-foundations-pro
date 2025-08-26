@@ -17,7 +17,7 @@ Scikit-learn comparison to validate and benchmark results
 
 The project helped me deeply understand how ML algorithms work under the hood.
 
-##⚡ Features
+## ⚡ Features
 
 Implemented gradient descent for optimization.
 
